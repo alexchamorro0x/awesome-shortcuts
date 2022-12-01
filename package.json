@@ -3,12 +3,12 @@
   "private": true,
   "version": "1.1.0",
   "description": "Navigate to your favorite actions on the websites you love with just one click.",
-  "homepage": "https://awesomeshortcuts.netlify.app",
+  "homepage": "https://awesome-shortcuts.netlify.app",
   "license": "Apache-2.0",
-  "author": "arifszn",
+  "author": "Alex Chamorro",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/awesome-shortcuts.git"
+    "url": "https://github.com/alexchamorro0x/awesome-shortcuts.git"
   },
   "scripts": {
     "dev": "vite",

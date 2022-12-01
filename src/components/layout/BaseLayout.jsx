@@ -68,11 +68,11 @@ const BaseLayout = (props) => {
               Made with ❤️ by{' '}
               <a
                 className="text-base-content"
-                href="https://github.com/arifszn"
+                href="https://github.com/alexchamorro0x"
                 target="_blank"
                 rel="noreferrer"
               >
-                Ariful Alam
+                Alex Chamorro
               </a>
             </p>
           </div>

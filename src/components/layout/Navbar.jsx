@@ -126,7 +126,7 @@ const Navbar = ({ query, setQuery }) => {
           <a
             aria-label="Github"
             target="_blank"
-            href="https://github.com/arifszn/awesome-shortcuts"
+            href="https://github.com/alexchamorro0x/awesome-shortcuts"
             rel="noreferrer"
             className="normal-case btn btn-ghost drawer-button btn-square"
           >
